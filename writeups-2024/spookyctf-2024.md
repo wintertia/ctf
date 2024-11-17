@@ -1,2 +1,0 @@
-# SpookyCTF 2024
-

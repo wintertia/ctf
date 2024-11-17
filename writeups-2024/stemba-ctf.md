@@ -1,2 +1,0 @@
-# STEMBA CTF
-
