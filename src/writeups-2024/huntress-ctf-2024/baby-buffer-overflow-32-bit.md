@@ -1,3 +1,7 @@
+---
+description: Binary Exploitation
+---
+
 # Baby Buffer Overflow - 32 bit
 
 > _Can you command this program to where it cannot go?_\
@@ -107,6 +111,6 @@ Using this payload, I was able to successfully pwn the remote connection to retr
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The final solve.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
