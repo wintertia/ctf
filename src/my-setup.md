@@ -21,9 +21,12 @@ layout:
 * pwndbg (2024.08.29 build: dcc8db70)
 * pwntools (Version 4.13.1)
 * ghidra (Version 11.2 2024-Sep-26)
+* tmux (Version 3.4)
 * ~~_radare2 (Version 5.9.2), but I rarely use this now_~~
 
 ## PWN Template
+
+Place the template file in your pwntools template directory, in my case it was located in `~/.local/lib/python3.11/site-packages/pwnlib/data/templates`:
 
 {% file src=".gitbook/assets/pwnup.mako" %}
 
@@ -49,7 +52,40 @@ host = args.HOST or 'hostname.com'
 port = int(args.PORT or 6969420)
 
 def start_local(argv=[], *a, **kw):
-    '''Execute the target binary locally'
+    '''Execute the target binary locally'''
+    if args.GDB:
+        return gdb.debug([exe.path] + argv, gdbscript=gdbscript, *a, **kw)
+    else:
+        return process([exe.path] + argv, *a, **kw)
+
+def start_remote(argv=[], *a, **kw):
+    '''Connect to the process on the remote host'''
+    io = connect(host, port)
+    if args.GDB:
+        gdb.attach(io, gdbscript=gdbscript)
+    return io
+
+def start(argv=[], *a, **kw):
+    '''Start the exploit against the target.'''
+    if args.LOCAL:
+        return start_local(argv, *a, **kw)
+    else:
+        return start_remote(argv, *a, **kw)
+
+gdbscript = '''
+tbreak main
+continue
+'''.format(**locals())
+
+# =======================
+# -- EXPLOIT GOES HERE --
+# =======================
+
+io = start()
+
+# payload
+
+io.interactive()
 ```
 
 </details>
