@@ -5,7 +5,7 @@
 
 ## writeups dojo
 
-* [PicoGym](writeups-dojo/picogym.md)
+* [picoGym](writeups-dojo/picogym.md)
 * [pwn.college](writeups-dojo/pwn.college.md)
 
 ## Writeups 2024
@@ -16,6 +16,7 @@
 * [DTS TSA - Cyber Champion 2024](writeups-2024/dts-tsa-cyber-champion-2024.md)
 * [MetaRed Argentina CERTUNLP 2024](writeups-2024/metared-argentina-certunlp-2024.md)
 * [👻 SpookyCTF 2024](writeups-2024/spookyctf-2024/README.md)
+  * [Phenominal-Photo](writeups-2024/spookyctf-2024/phenominal-photo.md)
   * [devil's-secret-stash](writeups-2024/spookyctf-2024/devils-secret-stash.md)
   * [two-frames-one-champ](writeups-2024/spookyctf-2024/two-frames-one-champ.md)
 * [🏹 Huntress CTF 2024](writeups-2024/huntress-ctf-2024/README.md)
