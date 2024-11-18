@@ -16,4 +16,5 @@
 * [DTS TSA - Cyber Champion 2024](writeups-2024/dts-tsa-cyber-champion-2024.md)
 * [MetaRed Argentina CERTUNLP 2024](writeups-2024/metared-argentina-certunlp-2024.md)
 * [SpookyCTF 2024](writeups-2024/spookyctf-2024.md)
-* [Huntress CTF 2024](writeups-2024/huntress-ctf-2024.md)
+* [🏹 Huntress CTF 2024](writeups-2024/huntress-ctf-2024/README.md)
+  * [Baby Buffer Overflow - 32 bit](writeups-2024/huntress-ctf-2024/baby-buffer-overflow-32-bit.md)
