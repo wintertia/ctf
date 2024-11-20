@@ -8,6 +8,8 @@ description: Forensics/Steganography
 >
 > _Author: WillyMcX_
 
+{% file src="../../.gitbook/assets/boo.jpg" %}
+
 Given a single image, I tried using **binwalk** to find hidden files in the image but there was nothing:
 
 ```
@@ -38,7 +40,7 @@ Inside the zip there was `gps.zip` and `Map.txt`. The zip file was locked with a
 
 After some searching with the help of a friend I discovered the existence of an _Alien Language_ translator to decode this message:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Using `LUDLDRRDLULRU` to open the zip, I was given another message to decode, and with the given message, the flag was found!
 
@@ -47,4 +49,4 @@ $ cat myrequest.txt
 ⋏⟟☊☊{⊑⟒⌰⌿_⋔⟒_⎎⟟⋏⎅_⏁⊑⟒_⌿⌰⏃⋏⟒⏁_⏚0⍜}
 ```
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

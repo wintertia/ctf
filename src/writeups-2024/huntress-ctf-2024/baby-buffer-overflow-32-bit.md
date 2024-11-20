@@ -10,6 +10,10 @@ description: Binary Exploitation
 >
 > _Author: @aenygma_
 
+{% file src="../../.gitbook/assets/babybufov" %}
+
+{% file src="../../.gitbook/assets/babybufov.c" %}
+
 This is a simple ret2win beginner challenge on a 32 bit binary. This was the source code:
 
 ```c
@@ -111,6 +115,6 @@ Using this payload, I was able to successfully pwn the remote connection to retr
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>

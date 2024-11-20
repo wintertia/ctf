@@ -1,2 +1,2 @@
-# STEMBA CTF
+# 👩‍🎓 STEMBA CTF
 

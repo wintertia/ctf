@@ -14,4 +14,4 @@ layout:
 
 # 🏹 Huntress CTF 2024
 
-This CTF was my first time actually playing real Binary Exploitation, unfortunately there were a few issues with this one challenge I solved.
+This CTF was my first time actually playing real Binary Exploitation for team HCS, unfortunately there were a few issues with this one challenge I solved, but it pushed me on the right track for learning Binary Exploitation.
