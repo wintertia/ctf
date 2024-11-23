@@ -113,8 +113,4 @@ p.interactive()
 
 Using this payload, I was able to successfully pwn the remote connection to retrieve the flag!
 
-<div align="center" data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>

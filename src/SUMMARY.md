@@ -3,11 +3,6 @@
 * [Welcome](README.md)
 * [My Setup](my-setup.md)
 
-## writeups dojo
-
-* [picoGym](writeups-dojo/picogym.md)
-* [pwn.college](writeups-dojo/pwn.college.md)
-
 ## Writeups 2024
 
 * [👩‍🎓 STEMBA CTF](writeups-2024/stemba-ctf.md)
