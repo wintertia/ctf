@@ -3,19 +3,26 @@
 * [Welcome](README.md)
 * [My Setup](my-setup.md)
 
+## WRITEUPS 2025
+
+* [BITS CTF 2025](writeups-2025/bits-ctf-2025.md)
+* [NETCOMP CTF 2025](writeups-2025/netcomp-ctf-2025.md)
+
 ## Writeups 2024
 
+* [☝️ Pointer Overflow CTF 2024](writeups-2024/pointer-overflow-ctf-2024/README.md)
+  * [Exploit 300 - Empress of What](writeups-2024/pointer-overflow-ctf-2024/exploit-300-empress-of-what.md)
 * [🕵️‍♂️ The Hacker Conclave v2](writeups-2024/the-hacker-conclave-v2/README.md)
   * [pwnc3](writeups-2024/the-hacker-conclave-v2/pwnc3.md)
   * [pwnc2](writeups-2024/the-hacker-conclave-v2/pwnc2.md)
   * [pwnc1](writeups-2024/the-hacker-conclave-v2/pwnc1.md)
-* [👩‍🎓 STEMBA CTF](writeups-2024/stemba-ctf/README.md)
+* [🏫 STEMBA CTF](writeups-2024/stemba-ctf/README.md)
   * [format strings](writeups-2024/stemba-ctf/format-strings.md)
   * [KALKULATOR AKAR](writeups-2024/stemba-ctf/kalkulator-akar.md)
   * [ret2ctf](writeups-2024/stemba-ctf/ret2ctf.md)
   * [SimpleB0f](writeups-2024/stemba-ctf/simpleb0f.md)
   * [ret2win](writeups-2024/stemba-ctf/ret2win.md)
-* [🧑‍🚀 1337UP LIVE 2024](writeups-2024/1337up-live-2024/README.md)
+* [🚀 1337UP LIVE 2024](writeups-2024/1337up-live-2024/README.md)
   * [Rigged Slot Machine 2](writeups-2024/1337up-live-2024/rigged-slot-machine-2.md)
   * [Floormat Mega Sale](writeups-2024/1337up-live-2024/floormat-mega-sale.md)
   * [Retro2Win](writeups-2024/1337up-live-2024/retro2win.md)
