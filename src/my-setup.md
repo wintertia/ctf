@@ -28,7 +28,7 @@ layout:
 
 Place the template file in your pwntools template directory, in my case it was located in `~/.local/lib/python3.11/site-packages/pwnlib/data/templates`:
 
-{% file src=".gitbook/assets/pwnup.mako" %}
+{% file src=".gitbook/assets/pwnup (2).mako" %}
 
 <details>
 
@@ -37,7 +37,7 @@ Place the template file in your pwntools template directory, in my case it was l
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# -*- template: winterbitia -*-
+# -*- template: wintertia -*-
 
 # ====================
 # -- PWNTOOLS SETUP --
