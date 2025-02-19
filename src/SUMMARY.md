@@ -5,8 +5,8 @@
 
 ## WRITEUPS 2025
 
-* [BITS CTF 2025](writeups-2025/bits-ctf-2025.md)
-* [NETCOMP CTF 2025](writeups-2025/netcomp-ctf-2025.md)
+* [🧱 BITS CTF 2025](writeups-2025/bits-ctf-2025.md)
+* [🖥️ NETCOMP CTF 2025](writeups-2025/netcomp-ctf-2025.md)
 
 ## Writeups 2024
 

@@ -1,2 +1,2 @@
-# NETCOMP CTF 2025
+# 🖥️ NETCOMP CTF 2025
 

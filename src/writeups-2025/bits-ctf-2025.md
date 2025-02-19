@@ -1,2 +1,2 @@
-# BITS CTF 2025
+# 🧱 BITS CTF 2025
 
