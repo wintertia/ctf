@@ -5,8 +5,11 @@
 
 ## WRITEUPS 2025
 
-* [🧱 BITS CTF 2025](writeups-2025/bits-ctf-2025.md)
+* [🧱 BITS CTF 2025](writeups-2025/bits-ctf-2025/README.md)
+  * [Biscuits](writeups-2025/bits-ctf-2025/biscuits.md)
+  * [BabyPWN](writeups-2025/bits-ctf-2025/babypwn.md)
 * [🖥️ NETCOMP CTF 2025](writeups-2025/netcomp-ctf-2025.md)
+  * [Pwn - Intro](writeups-2025/netcomp-ctf-2025/pwn-intro.md)
 
 ## Writeups 2024
 
