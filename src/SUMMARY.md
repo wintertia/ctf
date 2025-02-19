@@ -23,7 +23,6 @@
   * [SimpleB0f](writeups-2024/stemba-ctf/simpleb0f.md)
   * [ret2win](writeups-2024/stemba-ctf/ret2win.md)
 * [🚀 1337UP LIVE 2024](writeups-2024/1337up-live-2024/README.md)
-  * [Rigged Slot Machine 2](writeups-2024/1337up-live-2024/rigged-slot-machine-2.md)
   * [Floormat Mega Sale](writeups-2024/1337up-live-2024/floormat-mega-sale.md)
   * [Retro2Win](writeups-2024/1337up-live-2024/retro2win.md)
 * [🤴 DTS TSA - Cyber Champion 2024](writeups-2024/dts-tsa-cyber-champion-2024/README.md)
