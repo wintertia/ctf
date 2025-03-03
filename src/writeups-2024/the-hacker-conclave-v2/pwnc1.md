@@ -50,7 +50,7 @@ void pwnme(){
 
 Find the offset using gdb until the if statement happens:
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Offset was 44 bytes which allowed me to easily create an overwrite:
 
@@ -117,4 +117,4 @@ log.info(io.recvline())
 io.interactive()
 ```
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

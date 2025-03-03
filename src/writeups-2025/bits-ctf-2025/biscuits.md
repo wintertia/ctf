@@ -48,7 +48,7 @@ A simple challenge where you have to predict the RNG picking an extremely large 
 
 Decompiled using Ghidra, this program wants the user to predict the correct cookie name 100 times in a row to get the flag. First step is to find a list of cookie names using Ghidra, which I did by looking at the cookie array pointer and copied everything to ChatGPT to translate it to a Python array:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Here is the RNG prediction and cookie input loop script:
 
@@ -136,4 +136,4 @@ for i in range(100):
 io.interactive()
 ```
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>

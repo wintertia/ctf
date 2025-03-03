@@ -5,10 +5,14 @@
 
 ## WRITEUPS 2025
 
+* [♠️ ACECTF 2025](writeups-2025/acectf-2025/README.md)
+  * [!Underflow](writeups-2025/acectf-2025/underflow.md)
+  * [jumPIEng](writeups-2025/acectf-2025/jumpieng.md)
+  * [Running Out of Time](writeups-2025/acectf-2025/running-out-of-time.md)
 * [🧱 BITS CTF 2025](writeups-2025/bits-ctf-2025/README.md)
   * [Biscuits](writeups-2025/bits-ctf-2025/biscuits.md)
   * [BabyPWN](writeups-2025/bits-ctf-2025/babypwn.md)
-* [🖥️ NETCOMP CTF 2025](writeups-2025/netcomp-ctf-2025.md)
+* [🖥️ NETCOMP CTF 2025](writeups-2025/netcomp-ctf-2025/README.md)
   * [Pwn - Intro](writeups-2025/netcomp-ctf-2025/pwn-intro.md)
 
 ## Writeups 2024

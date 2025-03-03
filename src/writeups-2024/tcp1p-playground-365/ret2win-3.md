@@ -14,9 +14,9 @@ First time learning canaries, a simple canary challenge where the binary leaks t
 
 Start by finding the offset to EIP with cyclic patterns:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Breakpoint set at the canary comparison</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Breakpoint set at the canary comparison</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Cyclic lookup</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Cyclic lookup</p></figcaption></figure>
 
 After replacing the correct offset with canary, find the offset to EIP which was 8 bytes and insert a stack alignment gadget followed by the win function:
 
@@ -104,4 +104,4 @@ log.info(io.clean())
 io.interactive()
 ```
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>

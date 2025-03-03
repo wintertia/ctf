@@ -12,7 +12,7 @@ description: Binary Exploitation
 
 First time learning PIE, and this challenge is a simple introduction to PIE. The goal is to buffer overflow but with PIE in mind. First step is to use the given leak to get PIE, since it's a global variable it's very easy to find the offset. _(see 0x404c \<what\_is\_this\_for>)_
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Main function debug</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Main function debug</p></figcaption></figure>
 
 Just subtract the leaked address with -0x404c and we get the base address for ROP:
 
@@ -95,4 +95,4 @@ io.sendline(payload)
 io.interactive()
 ```
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
