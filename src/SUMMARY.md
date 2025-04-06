@@ -5,6 +5,9 @@
 
 ## WRITEUPS 2025
 
+* [🌌 Undutmaning25 CTF](writeups-2025/undutmaning25-ctf/README.md)
+  * [beep](writeups-2025/undutmaning25-ctf/beep.md)
+  * [Rocketlauncher](writeups-2025/undutmaning25-ctf/rocketlauncher.md)
 * [♠️ ACECTF 2025](writeups-2025/acectf-2025/README.md)
   * [!Underflow](writeups-2025/acectf-2025/underflow.md)
   * [jumPIEng](writeups-2025/acectf-2025/jumpieng.md)
