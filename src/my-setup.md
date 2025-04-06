@@ -22,6 +22,7 @@ layout:
 * pwntools (Version 4.13.1)
 * ghidra (Version 11.2 2024-Sep-26)
 * tmux (Version 3.4)
+* OneGadget (Version 1.10.0)
 * ~~_radare2 (Version 5.9.2), but I rarely use this now_~~
 
 ## PWN Template
