@@ -35,7 +35,7 @@ libc_repr = repr(libc)
 %>\
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# -*- template: wintertia -*-
+# -*- template: winterbitia -*-
 
 # ====================
 # -- PWNTOOLS SETUP --

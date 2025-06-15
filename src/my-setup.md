@@ -17,19 +17,19 @@ layout:
 
 ## Software
 
-* gdb (Version 13.2)
-* pwndbg (2024.08.29 build: dcc8db70)
-* pwntools (Version 4.13.1)
+* **Ubuntu 22.04.5 LTS x86\_64**
+* gdb (Version 12.1)
+* pwndbg (2025.04.18 build: 02335839)
+* pwntools (Version 4.14.1)
 * ghidra (Version 11.2 2024-Sep-26)
-* tmux (Version 3.4)
-* OneGadget (Version 1.10.0)
-* ~~_radare2 (Version 5.9.2), but I rarely use this now_~~
+* tmux (Version 3.2a)
+* OneGadget (Version 1.9.0)
 
 ## PWN Template
 
 Place the template file in your pwntools template directory, in my case it was located in `~/.local/lib/python3.11/site-packages/pwnlib/data/templates`:
 
-{% file src=".gitbook/assets/pwnup (2).mako" %}
+{% file src=".gitbook/assets/pwnup.mako" %}
 
 <details>
 
