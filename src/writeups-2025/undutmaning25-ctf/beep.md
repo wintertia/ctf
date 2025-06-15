@@ -125,4 +125,4 @@ if __name__ == "__main__":
 
 Here is an example of the challenge being solved locally (ignore it saying picoCTF that's just my template fake flag:relaxed:):
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

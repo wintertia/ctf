@@ -12,9 +12,9 @@ description: Binary Exploitation
 
 My first introduction to using actual ROP to solve a challenge, learned stuff at ir0nstone and used the knowledge to perform "Ret2Win with Parameters". Since this was a 64-bit binary, I had to do register popping. But first, I had to find which variable was connected to which:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Looking at the disassembly for the win function, I saw three comparisons and fortunately they were easily recognizable with their register names of RDI, RSI, and RDX.
 
