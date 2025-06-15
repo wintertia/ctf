@@ -5,8 +5,6 @@
 
 ## WRITEUPS 2025
 
-* [♾️ RECURSION 2025](writeups-2025/recursion-2025/README.md)
-  * [When Yh](writeups-2025/recursion-2025/when-yh.md)
 * [🌌 Undutmaning25 CTF](writeups-2025/undutmaning25-ctf/README.md)
   * [beep](writeups-2025/undutmaning25-ctf/beep.md)
   * [Rocketlauncher](writeups-2025/undutmaning25-ctf/rocketlauncher.md)
